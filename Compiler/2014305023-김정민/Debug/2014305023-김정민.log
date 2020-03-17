@@ -1,0 +1,16 @@
+﻿  parser.c
+c:\users\administrator\desktop\2014305023-김정민\2014305023-김정민\parser.c(206): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+c:\users\administrator\desktop\2014305023-김정민\2014305023-김정민\parser.c(209): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(242): note: 'freopen' 선언을 참조하십시오.
+c:\users\administrator\desktop\2014305023-김정민\2014305023-김정민\parser.c(210): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\administrator\desktop\2014305023-김정민\2014305023-김정민\parser.c(214): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\administrator\desktop\2014305023-김정민\2014305023-김정민\parser.c(215): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\administrator\desktop\2014305023-김정민\2014305023-김정민\parser.c(617): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\administrator\desktop\2014305023-김정민\2014305023-김정민\parser.c(1323): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+  2014305023-김정민.vcxproj -> C:\Users\Administrator\Desktop\2014305023-김정민\Debug\2014305023-김정민.exe
